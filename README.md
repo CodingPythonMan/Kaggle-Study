@@ -10,8 +10,8 @@ We will learn machine learning and data science. Skill makes man.
 목표는 Kaggle에서 1000$ 이상의 Prize를 따는 것을 목표로 하겠습니다. 그 때까지 스터디는 계속됩니다!
 
 ## Project Progress
-문제정의	-> 데이터 수집 및 이해		-> 배포 및 적용
-		-> 분석 및 모델링<br><br>
+문제정의	-> 데이터 수집 및 이해 -> 분석 및 모델링 -> 배포 및 적용 
+		
 문제를 해결할 때 해당 방법론을 사용해서 필요하다면 문서화하겠습니다. 각 단계에 대한 상세 내용은 다음과 같습니다.
 
 1. 문제정의
