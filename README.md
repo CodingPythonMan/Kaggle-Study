@@ -36,4 +36,7 @@ We will learn machine learning and data science. Skill makes man.
 1. 1주차 : 캐글 코리아와 함께하는 1st ML 대회 - 타이타닉 생존자를 예측하라!<br>
 	- [타이타닉 생존자 Evaluation](https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/overview/evaluation)
 	- 제출 파일 형식은 해당 링크에 정리되어 있습니다.
-2. 2주차
+	Update : 2022-01-16
+2. 2주차 : Python, Intro to Machine Learning 배운 후, 리포트 쓰기<br>
+	- [Kaggle Learning](https://www.kaggle.com/learn/?utm_medium=email&utm_source=gamma&utm_campaign=gamma-onboarding-learn)
+2. 3주차 : -
