@@ -39,4 +39,4 @@ We will learn machine learning and data science. Skill makes man.
 	Update : 2022-01-16
 2. 2주차 : Python, Intro to Machine Learning 배운 후, 리포트 쓰기<br>
 	- [Kaggle Learning](https://www.kaggle.com/learn/?utm_medium=email&utm_source=gamma&utm_campaign=gamma-onboarding-learn)
-2. 3주차 : -
+2. 3주차 : 현재 해당 스터디는 휴식 중입니다.
